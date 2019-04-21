@@ -30,19 +30,19 @@ Add grpc-protobuf dependency in pom.xml
 
 ```Java
   <properties>
-		<jdkLevel>11</jdkLevel>
-		<io.grpc.version>1.16.1</io.grpc.version>
+	<jdkLevel>11</jdkLevel>
+	<io.grpc.version>1.16.1</io.grpc.version>
   </properties>
 
   <dependency>
-			<groupId>io.grpc</groupId>
-			<artifactId>grpc-protobuf</artifactId>
-			<version>${io.grpc.version}</version>
+	<groupId>io.grpc</groupId>
+	<artifactId>grpc-protobuf</artifactId>
+	<version>${io.grpc.version}</version>
   </dependency>
 ```
 
 
-### Import the .proto genrated file
+### Code
 
 * Import the HelloRequest and build the helloRequest object.
 
