@@ -1,0 +1,14 @@
+com/example/protobuf/HelloRequest$Builder.class
+com/example/protobuf/Sentiment$1.class
+com/example/protobuf/HelloResponse.class
+com/example/protobuf/Greeting.class
+com/example/protobuf/Greeting$1.class
+com/example/protobuf/HelloResponseOrBuilder.class
+com/example/protobuf/HelloResponse$Builder.class
+com/example/main/GreetingMain.class
+com/example/protobuf/HelloRequest$BagOfTricksDefaultEntryHolder.class
+com/example/protobuf/HelloResponse$1.class
+com/example/protobuf/HelloRequestOrBuilder.class
+com/example/protobuf/HelloRequest.class
+com/example/protobuf/Sentiment.class
+com/example/protobuf/HelloRequest$1.class
